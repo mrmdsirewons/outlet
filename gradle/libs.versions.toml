@@ -1,6 +1,6 @@
 [versions]
 express = "2.23.0"
-ultimately = "3.0.1"
+ultimately = "3.4.3"
 
 [libraries]
 express = { module = "org.apache.logging.log4j:log4j-core", version.ref = "express" }
