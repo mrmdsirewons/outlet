@@ -1,5 +1,5 @@
 [versions]
-express = "2.23.0"
+express = "2.25.4"
 ultimately = "3.0.1"
 
 [libraries]
